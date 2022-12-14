@@ -1,0 +1,11 @@
+#output{
+    display:block;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#Name{
+    background-color: aqua;
+}
+#EmailId{
+    background-color:rgb(245, 212, 245)
+}
